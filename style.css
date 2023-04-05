@@ -1,7 +1,26 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
+body {
+    background-color: #8ae8ff9f;
+}
+
+.dark {
+    background-color: #304b66;
+    color: #29b8d1d2;
+}
+
+
+
+
+.slideeeeee {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    height:fit-content;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.116);
+}
 
